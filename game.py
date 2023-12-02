@@ -1,6 +1,6 @@
 import pygame
 import sys
-import requests  # Importez la bibliothèque requests
+import requests
 from datetime import datetime
 
 pygame.init()
